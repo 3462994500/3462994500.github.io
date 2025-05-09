@@ -17,10 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a graduate student majoring in [information and communication engineering](https://scie.cqupt.edu.cn/) at [Chongqing University of Posts and Telecommunications ( CQUPT )](https://www.cqupt.edu.cn/). I enrolled in 2023 and studied under Professor [Shen Bin](https://faculty.cqupt.edu.cn/shenbin/zh_CN/index.htm). 
+I received my Bachelor 's degree in [Communication Engineering](https://txgcxy.cuit.edu.cn/) from [Chengdu University of Information Technology ( CUIT )](https://www.cuit.edu.cn/) under the supervision of Professor [Wen Bin](https://txgcxy.cuit.edu.cn/info/1984/1329.htm). 
+During the master 's degree, the main research direction is UAV communication, which has certain research experience in the field of multi-agent deep reinforcement learning.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+You can find my CV here: [Xin Guan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
+Contact: I’m always glad to discuss or collaborate! If interested, feel free to email me at [Email](s230101036@stu.cqupt.edu.cn) / [Github](https://github.com/3462994500) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/m0_46105943?spm=1000.2115.3001.5343)
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
