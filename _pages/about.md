@@ -17,10 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a graduate student majoring in [information and communication engineering](https://scie.cqupt.edu.cn/) at [Chongqing University of Posts and Telecommunications ( CQUPT )](https://www.cqupt.edu.cn/). I entered school in 2023 and studied under Professor [Shen Bin](https://faculty.cqupt.edu.cn/shenbin/zh_CN/index.htm). 
+I am currently a graduate student majoring in [information and communication engineering](https://scie.cqupt.edu.cn/) at [Chongqing University of Posts and Telecommunications ( CQUPT )](https://www.cqupt.edu.cn/). I entered school in 2023 and studied under Professor [Shen Bin](https://xueshu.baidu.com/scholarID/CN-B974DMOJ).  During the master 's degree, the main research direction is UAV communication, which has certain research experience in the field of multi-agent deep reinforcement learning. The laboratory is [the key laboratory of mobile communication technology of CQUPT](https://klmc.cqupt.edu.cn/index.htm). 
 
-I received my Bachelor 's degree in [Communication Engineering](https://txgcxy.cuit.edu.cn/) from [Chengdu University of Information Technology ( CUIT )](https://www.cuit.edu.cn/) under the supervision of Professor [Wen Bin](https://txgcxy.cuit.edu.cn/info/1984/1329.htm). 
-During the master 's degree, the main research direction is UAV communication, which has certain research experience in the field of multi-agent deep reinforcement learning.
+I received my Bachelor 's degree in [Communication Engineering](https://txgcxy.cuit.edu.cn/) from [Chengdu University of Information Technology ( CUIT )](https://www.cuit.edu.cn/). The main research direction is embedded, learning embedded software and hardware development in the communication innovation laboratory of the college.
 
 You can find my CV here: [Xin Guan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
@@ -66,4 +65,4 @@ You can find my CV here: [Xin Guan's Curriculum Vitae](../assets/Curriculum_Vita
 
 # 💻 Internships
 
-
+Design and source code inspired from [Yi Ren]’s(https://github.com/RayeRen/acad-homepage.github.io) awesome template.
