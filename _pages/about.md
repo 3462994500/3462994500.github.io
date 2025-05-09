@@ -60,11 +60,10 @@ You can find my CV here: [Xin Guan's Curriculum Vitae](../assets/Curriculum_Vita
 - *2019.09 - 2023.06*,  Undergraduate, College of Communication Engineering, Chengdu University of Information Technology, Chengdu.
 - *2019.09 - 2023.06*,  NO.1 High School Of Yibin Sichuan, Yibin.
   
-  <!--
+
 # 💬 Invited Talks
-- *2021.06*, Master,College of Communication and Information Engineering, Chongqing University of Posts and Telecommunications, Chongqing. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
--->
+
+
