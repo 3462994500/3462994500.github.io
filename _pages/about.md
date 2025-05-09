@@ -23,8 +23,6 @@ During the master 's degree, the main research direction is UAV communication, w
 
 You can find my CV here: [Xin Guan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-Contact: I’m always glad to discuss or collaborate! If interested, feel free to email me at [Email](s230101036@stu.cqupt.edu.cn) / [Github](https://github.com/3462994500) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/m0_46105943?spm=1000.2115.3001.5343)
-
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -46,16 +44,27 @@ Contact: I’m always glad to discuss or collaborate! If interested, feel free t
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10* Second Prize of National Undergraduate Electronic Design Contest
+- *2022.04* Blue Bridge Cup EDA Group Third Prize 
+- *2024.04* Blue Bridge Cup Python Programming Contest 3rd Prize. 
+- *2024.06* Blue Bridge Cup 5G network planning and construction provincial first prize
+- *2024.10* China Postgraduate Mathematical Modeling Contest Third Prize
+- *2024.11* MathorCup Math Application Challenge - Big Data Contest Third Prize
+- *2024.12* Intelligence Cup National IT Skills Competition Programming Challenge Second Prize 
+- *2024.12* Intelligence Cup National IT Skills Competition AIGC Innovation Challenge First Prize 
+- *2025.01* National College Computer Ability Challenge Python Competition The provincial first prize and the national first prize of the research group
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2023.09 - Now*, Master, College of Communication and Information Engineering, Chongqing University of Posts and Telecommunications, Chongqing.
+- *2019.09 - 2023.06*,  Undergraduate, College of Communication Engineering, Chengdu University of Information Technology, Chengdu.
+- *2019.09 - 2023.06*,  NO.1 High School Of Yibin Sichuan, Yibin.
+  
+  <!--
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.06*, Master,College of Communication and Information Engineering, Chongqing University of Posts and Telecommunications, Chongqing. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
