@@ -65,4 +65,4 @@ You can find my CV here: [Xin Guan's Curriculum Vitae](../assets/Curriculum_Vita
 
 # 💻 Internships
 
-Design and source code inspired from [Yi Ren]’s(https://github.com/RayeRen/acad-homepage.github.io) awesome template.
+Design and source code inspired from [Yi Ren](https://github.com/RayeRen/acad-homepage.github.io)’s awesome template.
