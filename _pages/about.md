@@ -24,23 +24,23 @@ I received my Bachelor 's degree in [Communication Engineering](https://txgcxy.c
 You can find my CV here: [Xin Guan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 # 🔥 News
-
+2025.06: At present, a paper is being submitted to the [JOURNAL OF ELECTRONICS & INF ORMATION TECHNOLOGY](https://www.jeit.ac.cn/indexen.htm) according to the opinions of the tutor.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/scene.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JEIT 2025</div><img src='images/scene.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Dynamic 3D Multi-UAV Collaborative Coverage Optimization Using Spatio-Temporal Graph Attentive Synergy Network](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Xin Guan**, Bin Shen
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Project introduction : Modeling multi-UAV three-dimensional coverage scenes in partially observable environments and constructing a multi-dimensional evaluation system. Modeling Dec-POMDP process and improving it 
+The DQN network structure, combined with the multi-head graph attention mechanism GAT to model the dynamic topological relationship between agents, combined with GRU to capture the temporal state evolution, to achieve local 
+Observation information sharing and distributed collaborative decision-making. The global reward index of the proposed method is 2.69 % higher than that of the traditional algorithm and 8.77 % higher than that of the two-dimensional trajectory scheme. 
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Second Prize of National Undergraduate Electronic Design Contest
@@ -60,9 +60,14 @@ You can find my CV here: [Xin Guan's Curriculum Vitae](../assets/Curriculum_Vita
 - *2019.09 - 2023.06*,  NO.1 High School Of Yibin Sichuan, Yibin.
   
 
-# 💬 Invited Talks
+# 💬 Technology Stack
+- Python、PyTorch、NumPy、RNN、GNN、Transformer、NumPy、Seaborn、Matplotlib、TensorBoard
 
+# 💬 Personal summary
+-  I am optimistic and cheerful, positive, love to learn, excellent in school performance, self-driving ability, with good communication skills and team spirit.
+-  I have a wide range of interests : active participation in volunteer activities ( volunteer cloud platform effective volunteer service for 55 hours ) ; soft pen calligraphy ; guitar.
 
 # 💻 Internships
+- *2023.09 - Now*,At present, I am looking for internships and hope to engage in AI application development. Two jobs have been declined, and some interviews are still in the process.
 
 Design and source code inspired from [Yi Ren](https://github.com/RayeRen/acad-homepage.github.io)’s awesome template.
