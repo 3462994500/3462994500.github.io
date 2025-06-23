@@ -49,11 +49,11 @@ Observation information sharing and distributed collaborative decision-making. T
 - *2024.06* Blue Bridge Cup 5G Network Planning and Construction 1st Prize
 - *2024.10* China Postgraduate Mathematical Modeling Contest 3rd Prize
 - *2024.11* MathorCup Mathematical Application Challenge - Big Data Contest 3rd Prize
-- *2024.11* "Sanhuan Master" Social Scholarship &amp Academic Scholarship
-- *2024.11* "Excellent graduate students" &amp "Young volunteers advanced individuals"
+- *2024.11* "Sanhuan Master" Social Scholarship and Academic Scholarship
+- *2024.11* "Excellent graduate students" and "Young volunteers advanced individuals"
 - *2024.12* Intelligence Cup National IT Skills Competition Programming Challenge 2nd Prize
 - *2024.12* Intelligence Cup National IT Skills Competition AIGC Innovation Challenge 1st Prize
-- *2025.01* National College Computer Ability Challenge Python Competition Provincial 1st Prize &amp Research Group National 1st Prize
+- *2025.01* National College Computer Ability Challenge Python Competition Provincial 1st Prize and Research Group National 1st Prize
 
   
 # 🔧 Technology Stack
