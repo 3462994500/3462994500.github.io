@@ -43,17 +43,17 @@ Observation information sharing and distributed collaborative decision-making. T
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Second Prize of National Undergraduate Electronic Design Contest
-- *2022.04* Blue Bridge Cup EDA Group Third Prize 
+- *2021.10* National Undergraduate Electronic Design Contest 2nd Prize
+- *2022.04* Blue Bridge Cup EDA Group 3rd Prize
 - *2024.04* Blue Bridge Cup Python Programming Contest 3rd Prize. 
-- *2024.06* Blue Bridge Cup 5G network planning and construction provincial first prize
-- *2024.10* China Postgraduate Mathematical Modeling Contest Third Prize
-- *2024.11* MathorCup Math Application Challenge - Big Data Contest Third Prize
-- *2024.11* "Sanhuan Master" Social Scholarship and academic scholarship
-- *2024.11* "Excellent graduate students" and "Young volunteers advanced individuals"
-- *2024.12* Intelligence Cup National IT Skills Competition Programming Challenge Second Prize 
-- *2024.12* Intelligence Cup National IT Skills Competition AIGC Innovation Challenge First Prize 
-- *2025.01* National College Computer Ability Challenge Python Competition The provincial first prize and the national first prize of the research group
+- *2024.06* Blue Bridge Cup 5G Network Planning and Construction 1st Prize
+- *2024.10* China Postgraduate Mathematical Modeling Contest 3rd Prize
+- *2024.11* MathorCup Mathematical Application Challenge - Big Data Contest 3rd Prize
+- *2024.11* "Sanhuan Master" Social Scholarship &amp Academic Scholarship
+- *2024.11* "Excellent graduate students" &amp "Young volunteers advanced individuals"
+- *2024.12* Intelligence Cup National IT Skills Competition Programming Challenge 2nd Prize
+- *2024.12* Intelligence Cup National IT Skills Competition AIGC Innovation Challenge 1st Prize
+- *2025.01* National College Computer Ability Challenge Python Competition Provincial 1st Prize &amp Research Group National 1st Prize
 
   
 # 🔧 Technology Stack
