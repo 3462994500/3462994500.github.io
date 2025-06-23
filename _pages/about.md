@@ -49,6 +49,8 @@ Observation information sharing and distributed collaborative decision-making. T
 - *2024.06* Blue Bridge Cup 5G network planning and construction provincial first prize
 - *2024.10* China Postgraduate Mathematical Modeling Contest Third Prize
 - *2024.11* MathorCup Math Application Challenge - Big Data Contest Third Prize
+- *2024.11* 'Sanhuan Master 'Social Scholarship & academic scholarship
+- *2024.11* 'Excellent graduate students '& ' young volunteers advanced individuals '
 - *2024.12* Intelligence Cup National IT Skills Competition Programming Challenge Second Prize 
 - *2024.12* Intelligence Cup National IT Skills Competition AIGC Innovation Challenge First Prize 
 - *2025.01* National College Computer Ability Challenge Python Competition The provincial first prize and the national first prize of the research group
@@ -60,14 +62,14 @@ Observation information sharing and distributed collaborative decision-making. T
 - *2019.09 - 2023.06*,  NO.1 High School Of Yibin Sichuan, Yibin.
   
 
-# 💬 Technology Stack
-- Python、PyTorch、NumPy、RNN、GNN、Transformer、NumPy、Seaborn、Matplotlib、TensorBoard
+# 🔧 Technology Stack
+- Python、PyTorch、NumPy、RNN、GNN、Transformer、NumPy、Seaborn、Matplotlib、TensorBoard、C、SQL、Linux、LangChain
 
-# 💬 Personal summary
+# 📝 Personal summary
 -  I am optimistic and cheerful, positive, love to learn, excellent in school performance, self-driving ability, with good communication skills and team spirit.
 -  I have a wide range of interests : active participation in volunteer activities ( volunteer cloud platform effective volunteer service for 55 hours ) ; soft pen calligraphy ; guitar.
 
 # 💻 Internships
-- *2023.09 - Now*,At present, I am looking for internships and hope to engage in AI application development. Two jobs have been declined, and some interviews are still in the process.
+- *2023.09 - Now*: At present, I am looking for internships and hope to engage in AI application development. Two jobs have been declined, and some interviews are still in the process.
 
 Design and source code inspired from [Yi Ren](https://github.com/RayeRen/acad-homepage.github.io)’s awesome template.
