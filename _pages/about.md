@@ -55,21 +55,20 @@ Observation information sharing and distributed collaborative decision-making. T
 - *2024.12* Intelligence Cup National IT Skills Competition AIGC Innovation Challenge First Prize 
 - *2025.01* National College Computer Ability Challenge Python Competition The provincial first prize and the national first prize of the research group
 
+  
+# 🔧 Technology Stack
+- Python、PyTorch、NumPy、RNN、GNN、Transformer、NumPy、Seaborn、Matplotlib、TensorBoard、C、SQL、Linux、LangChain
+
+# 💻 Internships
+- *2023.09 - Now*: At present, I am looking for internships and hope to engage in AI application development. Two jobs have been declined, and some interviews are still in the process.
 
 # 📖 Educations
 - *2023.09 - Now*, Master, College of Communication and Information Engineering, Chongqing University of Posts and Telecommunications, Chongqing.
 - *2019.09 - 2023.06*,  Undergraduate, College of Communication Engineering, Chengdu University of Information Technology, Chengdu.
 - *2019.09 - 2023.06*,  NO.1 High School Of Yibin Sichuan, Yibin.
-  
-
-# 🔧 Technology Stack
-- Python、PyTorch、NumPy、RNN、GNN、Transformer、NumPy、Seaborn、Matplotlib、TensorBoard、C、SQL、Linux、LangChain
 
 # 📝 Personal summary
 -  I am optimistic and cheerful, positive, love to learn, excellent in school performance, self-driving ability, with good communication skills and team spirit.
 -  I have a wide range of interests : active participation in volunteer activities ( volunteer cloud platform effective volunteer service for 55 hours ) ; soft pen calligraphy ; guitar.
-
-# 💻 Internships
-- *2023.09 - Now*: At present, I am looking for internships and hope to engage in AI application development. Two jobs have been declined, and some interviews are still in the process.
 
 Design and source code inspired from [Yi Ren](https://github.com/RayeRen/acad-homepage.github.io)’s awesome template.
