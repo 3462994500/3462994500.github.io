@@ -36,7 +36,7 @@ You can find my CV here: [Xin Guan's Curriculum Vitae](../assets/Curriculum_Vita
 **Xin Guan**, Bin Shen
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Project introduction : Modeling multi-UAV three-dimensional coverage scenes in partially observable environments and constructing a multi-dimensional evaluation system. Modeling Dec-POMDP process and improving it 
+- Modeling multi-UAV three-dimensional coverage scenes in partially observable environments and constructing a multi-dimensional evaluation system. Modeling Dec-POMDP process and improving it 
 The DQN network structure, combined with the multi-head graph attention mechanism GAT to model the dynamic topological relationship between agents, combined with GRU to capture the temporal state evolution, to achieve local 
 Observation information sharing and distributed collaborative decision-making. The global reward index of the proposed method is 2.69 % higher than that of the traditional algorithm and 8.77 % higher than that of the two-dimensional trajectory scheme. 
 </div>
